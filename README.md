@@ -1,5 +1,3 @@
-# Samsung-supply-chain-dashboard
-
 # Samsung Supply Chain and Logistics Dashboard
 
 ## Project Overview
@@ -29,7 +27,7 @@ The goal of this dashboard is to provide a centralized analytics platform that e
 
 ## Dashboard Preview
 
-![Samsung Supply Chain Dashboard](screenshots/samsung-dashboard.png)
+![Samsung Supply Chain Dashboard](Dashboard.png)
 
 
 
